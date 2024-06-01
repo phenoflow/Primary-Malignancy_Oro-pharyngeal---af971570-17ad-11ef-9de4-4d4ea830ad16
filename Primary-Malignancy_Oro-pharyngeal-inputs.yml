@@ -36,7 +36,7 @@ inputModule12:
   path: python/primary-malignancy_oro-pharyngeal-sinus---primary.py
 inputModule13:
   class: File
-  path: python/vpersonal-primary-malignancy_oro-pharyngeal---primary.py
+  path: python/personal-primary-malignancy_oro-pharyngeal---primary.py
 inputModule14:
   class: File
   path: python/primary-malignancy_oro-pharyngeal-oropharynx---primary.py
