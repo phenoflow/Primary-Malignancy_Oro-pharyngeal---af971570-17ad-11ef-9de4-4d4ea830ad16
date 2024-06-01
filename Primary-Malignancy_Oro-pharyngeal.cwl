@@ -129,8 +129,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: primary-malignancy_oro-pharyngeal-salivary---primary/output
-  vpersonal-primary-malignancy_oro-pharyngeal---primary:
-    run: vpersonal-primary-malignancy_oro-pharyngeal---primary.cwl
+  personal-primary-malignancy_oro-pharyngeal---primary:
+    run: personal-primary-malignancy_oro-pharyngeal---primary.cwl
     out:
     - output
     in:
@@ -150,7 +150,7 @@ steps:
         source: inputModule14
       potentialCases:
         id: potentialCases
-        source: vpersonal-primary-malignancy_oro-pharyngeal---primary/output
+        source: personal-primary-malignancy_oro-pharyngeal---primary/output
   lateral-primary-malignancy_oro-pharyngeal---primary:
     run: lateral-primary-malignancy_oro-pharyngeal---primary.cwl
     out:
